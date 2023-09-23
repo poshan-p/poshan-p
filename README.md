@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Poshan Peeroo</h1>
-<h3 align="center">An aspiring software engineer with a passion for learning from Mauritius</h3>
+<h3 align="center">An aspiring software engineer from Mauritius with a passion for learning.</h3>
 
 - 🔭 I’m currently working on [CookBook](https://play.google.com/store/apps/details?id=com.mystegy.cookbook&hl=en&gl=US)
 
