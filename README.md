@@ -5,7 +5,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/poshan-p/](https://github.com/poshan-p/)
 
-- 📝 I regularly write articles on [poshanpeeroo.wordpress.com](poshanpeeroo.wordpress.com)
+- 📝 I regularly blog on [poshanpeeroo.wordpress.com](poshanpeeroo.wordpress.com)
 
 - 📫 How to reach me **poshanpeeroo@gmail.com**
 
