@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Poshan Peeroo</h1>
 <h3 align="center">An aspiring software engineer from Mauritius with a passion for learning.</h3>
 
-- 🔭 I’m currently working on [CookBook](https://play.google.com/store/apps/details?id=com.mystegy.cookbook&hl=en&gl=US)
+- 🔭 I’m currently learning cryptography algorithms.
 
 - 👨‍💻 All of my projects are available at [https://github.com/poshan-p/](https://github.com/poshan-p/)
 
